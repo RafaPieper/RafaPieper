@@ -9,7 +9,7 @@
 
    My field of study is Applied Artificial Intelligence
     
-⚡ Fun fact: I enjoy a road trip 🚙
+⚡ Fun fact: I enjoy road trips 🚙 and love sailing ⛵
 
  📣 I also share a little of my knowledge on my website - [rafaelpieper.com](https://rafaelpieper.com/)
 

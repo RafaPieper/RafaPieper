@@ -23,11 +23,11 @@
 
 🛣️ [Paper - Data analytics on federal road accidents in Brazil PT](https://github.com/RafaPieper/Artigo-Acidentes-PRF)
 
-🛥️ [Bollard Pull estimation (external)](https://rafaelpieper.com/bollard-pull/)
+🛥️ [Bollard Pull estimation (Linear Regression) (external link)](https://rafaelpieper.com/bollard-pull/)
 
-📈 [Shipbuilding follow-up Dashboard (external)](https://rafaelpieper.com/shipbuilding-power-bi-report/)  
+📈 [Shipbuilding follow-up Dashboard (external link)](https://rafaelpieper.com/shipbuilding-power-bi-report/)  
 
-🛳️ [Application to see bulbous bow effect on ships](https://github.com/RafaPieper/Bulbous_Bow)
+🛳️ [Application to evaluate bulbous bow effect on ships](https://github.com/RafaPieper/Bulbous_Bow)
 
 🛳️ [Application to evaluate the ship behavior on different loads](https://github.com/RafaPieper/Ship_Draft_Marks)
 

@@ -1,13 +1,15 @@
 
-👋 Hi, I’m Pieper
+## 👋 Hi, I’m Pieper
 
-🧑‍🎓 I'm a Naval Architect
+🧑‍🎓 I'm a Naval Architect and I’m currently enrolled in the Electronics Systems Engineering Graduate Program at [UFSC](https://ppgese.joinville.ufsc.br/en/) 
+
+   ```
+    My field of study is Applied Artificial Intelligence 🤖
+   
+      Machine Learning; Predictive maintenance; Signal processing; Time Series analysis
+```
 
 👀 I’m interested in data science, naval architecture and marine engineering, predictive maintenance
-
-🌱 I’m currently enrolled in the Electronics Systems Engineering Graduate Program at [UFSC](https://ppgese.joinville.ufsc.br/en/) 
-
-   My field of study is Applied Artificial Intelligence
     
 ⚡ Fun fact: I enjoy road trips 🚙 and love sailing ⛵
 

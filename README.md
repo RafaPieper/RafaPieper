@@ -21,6 +21,8 @@
 
 💰 [Optimization problem - Tugboat allocation  PT](https://github.com/RafaPieper/Tugboat-Allocation-Optmization)
 
+🛥️ [Ship dimensions exploratory data analysis](https://github.com/RafaPieper/Ships_Data_Analysis)
+
 🛣️ [Paper - Data analytics on federal road accidents in Brazil PT](https://github.com/RafaPieper/Artigo-Acidentes-PRF)
 
 🛥️ [Bollard Pull estimation (Linear Regression) (external link)](https://rafaelpieper.com/bollard-pull/)

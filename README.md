@@ -3,11 +3,10 @@
 
 🧑‍🎓 I'm a Naval Architect and I’m currently enrolled in the Electronics Systems Engineering Graduate Program at [UFSC](https://ppgese.joinville.ufsc.br/en/) 
 
-   ```
     My field of study is Applied Artificial Intelligence 🤖
    
-      Machine Learning; Predictive maintenance; Signal processing; Time Series analysis
-```
+    Machine Learning; Predictive maintenance; Signal processing; Time Series analysis
+
 
 👀 I’m interested in data science, naval architecture and marine engineering, predictive maintenance
     
@@ -16,6 +15,8 @@
  📣 I also share a little of my knowledge on my website - [rafaelpieper.com](https://rafaelpieper.com/)
 
 ## Check some of my projects:
+
+🧑‍🎓 [Critical Review - USV Thruster Fault Detection [PT]](https://github.com/RafaPieper/Critical_Review_Fault_Detection_propulsion)
 
 🧑‍🎓 [Paper on Signal analysis and processing Techniques [PT]](https://github.com/RafaPieper/PPGESE_Trabalho_Analise_de_Sinais)
 

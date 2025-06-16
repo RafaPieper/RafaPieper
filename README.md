@@ -17,6 +17,8 @@
 
 ## Check some of my projects:
 
+🧑‍🎓 [Paper on Signal analysis and processing Techniques [PT]](https://github.com/RafaPieper/PPGESE_Trabalho_Analise_de_Sinais)
+
 🛠️ [Fault detection Example](https://github.com/RafaPieper/Example_Fault_Detection_Tree)
 
 💰 [Optimization problem - Tugboat allocation  PT](https://github.com/RafaPieper/Tugboat-Allocation-Optmization)

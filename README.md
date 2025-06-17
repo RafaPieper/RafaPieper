@@ -22,6 +22,8 @@
 
 🛠️ [Fault detection Example](https://github.com/RafaPieper/Example_Fault_Detection_Tree)
 
+🛠️ [Random signal generator and DFT application](https://github.com/RafaPieper/Discrete_Fourier_Transform_Signal_Creator)
+
 💰 [Optimization problem - Tugboat allocation  PT](https://github.com/RafaPieper/Tugboat-Allocation-Optmization)
 
 🛥️ [Ship dimensions exploratory data analysis](https://github.com/RafaPieper/Ships_Data_Analysis)

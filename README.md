@@ -1,44 +1,51 @@
+# 👋 Hi, I'm Rafael Pieper
 
-## 👋 Hi, I’m Pieper
+**Naval Architect | M.Sc. Candidate in Electronic Systems Engineering**
 
-🧑‍🎓 I'm a Naval Architect and I’m currently enrolled in the Electronics Systems Engineering Graduate Program at [UFSC](https://ppgese.joinville.ufsc.br/en/) 
+I am a professional engineer specializing in the intersection of **Naval Architecture** and **Applied Artificial Intelligence**. Currently, I am conducting research at [UFSC](https://ppgese.joinville.ufsc.br/en/) focused on leveraging Machine Learning and Signal Processing for maritime efficiency and predictive maintenance.
 
-    My field of study is Applied Artificial Intelligence 🤖
-   
-    Machine Learning; Predictive maintenance; Signal processing; Time Series analysis
+### 🛠️ Technical Toolkit
 
+* **Data Science:** Python (Pandas, Scikit-Learn), SQL, Power BI, Machine Learning.
+* **Engineering:** Signal Processing, Time Series Analysis, Queuing Theory, Optimization.
+* **Domains:** Naval Architecture, Port Logistics, Marine Engineering.
 
-👀 I’m interested in data science, naval architecture and marine engineering, predictive maintenance
-    
-⚡ Fun fact: I enjoy road trips 🚙 and love sailing ⛵
+---
 
- 📣 I also share a little of my knowledge on my website - [rafaelpieper.com](https://rafaelpieper.com/)
+### 📚 Featured Publications & Research
 
-## Check some of my projects:
+* 🏆 **Award Winning Paper:** [Teoria das Filas no Planejamento Portuário: Um Estudo de Caso com o Terminal de Contêineres de Salvador](https://www.researchgate.net/publication/398773609_TEORIA_DAS_FILAS_NO_PLANEJAMENTO_PORTUARIO_um_estudo_de_caso_com_o_terminal_de_conteineres_de_Salvador) – *2nd Best Paper at XII CIDESPORT.*
+* 🎓 [Critical Review - USV Thruster Fault Detection](https://github.com/RafaPieper/Critical_Review_Fault_Detection_propulsion)
+* 🎓 [Paper on Signal Analysis and Processing Techniques](https://github.com/RafaPieper/PPGESE_Trabalho_Analise_de_Sinais)
+* 🛣️ [Data Analytics on Federal Road Accidents in Brazil](https://github.com/RafaPieper/Artigo-Acidentes-PRF)
 
-🧑‍🎓 [Critical Review - USV Thruster Fault Detection [PT]](https://github.com/RafaPieper/Critical_Review_Fault_Detection_propulsion)
+---
 
-🧑‍🎓 [Paper on Signal analysis and processing Techniques [PT]](https://github.com/RafaPieper/PPGESE_Trabalho_Analise_de_Sinais)
+### 🚀 Key Projects
 
-🛠️ [Fault detection Example](https://github.com/RafaPieper/Example_Fault_Detection_Tree)
+#### **🚢 Naval Engineering & Maritime Logistics**
+* **Tugboat Allocation Optimization:** Solving complex logistics problems using [Optimization Techniques](https://github.com/RafaPieper/Tugboat-Allocation-Optmization).
+* **Shipbuilding Dashboard:** Interactive [Power BI Report](https://rafaelpieper.com/shipbuilding-power-bi-report/) for project follow-up.
+* **Bollard Pull Estimation:** [Linear Regression model](https://rafaelpieper.com/bollard-pull/) for vessel performance.
+* **Vessel Dynamics:** Tools for evaluating [Bulbous Bow effects](https://github.com/RafaPieper/Bulbous_Bow) and [Ship Draft behavior](https://github.com/RafaPieper/Ship_Draft_Marks).
+* **Structural Analysis:** [Application to evaluate the global structure of a ship](https://github.com/RafaPieper/Ship_Structure_Calculation).
 
-🛠️ [Random signal generator and DFT application](https://github.com/RafaPieper/Discrete_Fourier_Transform_Signal_Creator)
+#### **🤖 AI & Signal Processing**
+* **Fault Detection:** Implementation of a [Decision Tree example](https://github.com/RafaPieper/Example_Fault_Detection_Tree) for industrial monitoring.
+* **Signal Analysis:** [DFT Application](https://github.com/RafaPieper/Discrete_Fourier_Transform_Signal_Creator) and random signal generation.
+* **Exploratory Data Analysis:** [Ship Dimensions Analysis](https://github.com/RafaPieper/Ships_Data_Analysis) using Python.
 
-💰 [Optimization problem - Tugboat allocation  PT](https://github.com/RafaPieper/Tugboat-Allocation-Optmization)
+---
 
-🛥️ [Ship dimensions exploratory data analysis](https://github.com/RafaPieper/Ships_Data_Analysis)
+### ⚡ Beyond the Code
+* **Fun Fact:** I’m an avid sailor ⛵ and love a good road trip 🚙.
+* **Writing:** I share technical insights and tutorials on my website: [rafaelpieper.com](https://rafaelpieper.com/)
 
-🛣️ [Paper - Data analytics on federal road accidents in Brazil PT](https://github.com/RafaPieper/Artigo-Acidentes-PRF)
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/rafaelpieper/) | [Website](https://rafaelpieper.com/) | [ResearchGate](https://www.researchgate.net/profile/Rafael-Pieper)
 
-🛥️ [Bollard Pull estimation (Linear Regression) (external link)](https://rafaelpieper.com/bollard-pull/)
+---
 
-📈 [Shipbuilding follow-up Dashboard (external link)](https://rafaelpieper.com/shipbuilding-power-bi-report/)  
-
-🛳️ [Application to evaluate bulbous bow effect on ships](https://github.com/RafaPieper/Bulbous_Bow)
-
-🛳️ [Application to evaluate the ship behavior on different loads](https://github.com/RafaPieper/Ship_Draft_Marks)
-
-🛳️ [Application to evaluate the global structure of a ship](https://github.com/RafaPieper/Ship_Structure_Calculation)
-
-
-
+### 📊 GitHub Stats
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaPieper&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPieper&layout=compact&theme=radical)

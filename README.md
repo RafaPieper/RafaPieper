@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Rafael Pieper
 
-**Naval Architect | M.Sc. Candidate in Electronic Systems Engineering**
+**Naval Architect |Data Anaylics Specialist | M.Sc. Candidate in Electronic Systems Engineering**
 
-I am a professional engineer specializing in the intersection of **Naval Architecture** and **Applied Artificial Intelligence**. Currently, I am conducting research at [UFSC](https://ppgese.joinville.ufsc.br/en/) focused on leveraging Machine Learning and Signal Processing for maritime efficiency and predictive maintenance.
+I am a engineer specializing in the intersection of **Naval Architecture** and **Applied Artificial Intelligence**. Currently, I am conducting research at [UFSC](https://ppgese.joinville.ufsc.br/en/) focused on leveraging Machine Learning and operations research for maritime efficiency. I also have done research on the application of aI models for predictive maintenance.
+
 
 ### 🛠️ Technical Toolkit
 
@@ -12,16 +13,21 @@ I am a professional engineer specializing in the intersection of **Naval Archite
 
 ---
 
-### 📚 Featured Publications & Research
+## 📚 Featured Publications & Research
 
+### Conferences
 * 🏆 **Award Winning Paper:** [Teoria das Filas no Planejamento Portuário: Um Estudo de Caso com o Terminal de Contêineres de Salvador](https://www.researchgate.net/publication/398773609_TEORIA_DAS_FILAS_NO_PLANEJAMENTO_PORTUARIO_um_estudo_de_caso_com_o_terminal_de_conteineres_de_Salvador) – *2nd Best Paper at XII CIDESPORT.*
+*  🎓 Forecasting Brazil's maritime container throughput: A comparative study of SARIMA, and LSTM Neural Network models with cyclical encoding. - XXIX COPINAVAL (waiting for DOI)
+
+### Individual Papers
+* 🎓 [Fault Detection in Tugboat Marine Diesel Engines Through the Application of Machine Learning – a Review](rafaelpieper.com/review-on-fdd/)
 * 🎓 [Critical Review - USV Thruster Fault Detection](https://github.com/RafaPieper/Critical_Review_Fault_Detection_propulsion)
 * 🎓 [Paper on Signal Analysis and Processing Techniques](https://github.com/RafaPieper/PPGESE_Trabalho_Analise_de_Sinais)
 * 🛣️ [Data Analytics on Federal Road Accidents in Brazil](https://github.com/RafaPieper/Artigo-Acidentes-PRF)
 
 ---
 
-### 🚀 Key Projects
+## 🚀 Key Projects
 
 #### **🚢 Naval Engineering & Maritime Logistics**
 * **Tugboat Allocation Optimization:** Solving complex logistics problems using [Optimization Techniques](https://github.com/RafaPieper/Tugboat-Allocation-Optmization).
@@ -39,13 +45,7 @@ I am a professional engineer specializing in the intersection of **Naval Archite
 
 ### ⚡ Beyond the Code
 * **Fun Fact:** I’m an avid sailor ⛵ and love a good road trip 🚙.
-* **Writing:** I share technical insights and tutorials on my website: [rafaelpieper.com](https://rafaelpieper.com/)
+* **Writing:** I share technical insights on my website: [rafaelpieper.com](https://rafaelpieper.com/)
 
 ### 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/rafaelpieper/) | [Website](https://rafaelpieper.com/) | [ResearchGate](https://www.researchgate.net/profile/Rafael-Pieper)
-
----
-
-### 📊 GitHub Stats
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaPieper&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPieper&layout=compact&theme=radical)
